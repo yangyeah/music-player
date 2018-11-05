@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://image.ibb.co/h6visf/music-player.jpg" width="50%"/>
 	<br/>
+	
+  [![php](https://img.shields.io/badge/php-%3E%3D5.4-blue.svg)](http://php.net/releases/5_4_0.php)
 </div>
 
 ## 简介
@@ -118,4 +120,4 @@ GitHub：https://github.com/mengkunsoft/MKOnlineMusicPlayer
 百度网盘：http://pan.baidu.com/s/1gfkbAef  
 
 ## 感谢
-最后必须感谢这款开源播放器的源码贡献者--孟坤。[孟坤博客](https://mkblog.cn/757/)
+最后必须感谢这款开源播放器的源码贡献者--[mengkun](https://mkblog.cn/757/)。
