@@ -7,7 +7,7 @@ RUN apk add --no-cache nginx \
     && mv default.conf /etc/nginx/conf.d \
     && mv php.ini /usr/local/etc/php
 
-EXPOSE 80
+EXPOSE 264
 # Persistent config file and cache
 VOLUME [ "/var/www/html/cache" ]
 
